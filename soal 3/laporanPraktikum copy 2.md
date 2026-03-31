@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 - ALGORITMA PEMROGRAMAN 2 </h1>
+# <h1 align="center">Laporan Praktikum Modul 4 - ALGORITMA PEMROGRAMAN 2 </h1>
 <p align="center">[Akhmad Noval Annur] - [109082500100]</p>
 
 ## Unguided 
